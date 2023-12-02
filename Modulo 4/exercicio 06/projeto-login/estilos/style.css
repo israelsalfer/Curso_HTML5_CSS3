@@ -8,7 +8,7 @@
 }
 
 body, html{
-    background-color: #5f2c82;
+    background-color: #FF4000;
     height: 100vh;
     width: 100vw;
 
@@ -35,7 +35,7 @@ section#login{
 
 section#login > div#imagem{
     display: block;
-    background: #5f2c82 url(../imagens/metal.jpg) no-repeat;
+    background: #FF4000 url(../imagens/metal.jpg) no-repeat;
     background-size: cover;
     background-position: left bottom;
     height: 200px;
